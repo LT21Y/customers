@@ -1,0 +1,67 @@
+{
+  "user": [
+    {
+      "name": "张三",
+      "phone": "333-777-888",
+      "email": "6777@126.com",
+      "education": "本科",
+      "school": "无",
+      "pro": "程序员",
+      "personal": "爱好代码",
+      "id": 1
+    },
+    {
+      "name": "里斯",
+      "phone": "333-477-588",
+      "email": "557337@126.com",
+      "education": "本科",
+      "school": "无",
+      "pro": "程序员",
+      "personal": "无",
+      "id": 2,
+      "age": 33,
+      "companyID": 2
+    },
+    {
+      "name": "王武",
+      "phone": "333-777-888",
+      "email": "644777@126.com",
+      "education": "本科",
+      "school": "无",
+      "pro": "程序员",
+      "personal": "无",
+      "id": 3,
+      "age": 20,
+      "companyID": 3
+    },
+    {
+      "name": "李四",
+      "phone": "3353-7577-8858",
+      "email": "644777@126.com",
+      "education": "本科",
+      "school": "无",
+      "pro": "程序员",
+      "personal": "无",
+      "id": 4,
+      "age": 26,
+      "companyID": 3
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "apple",
+      "description": "good!"
+    },
+    {
+      "id": 2,
+      "name": "orange",
+      "description": "yes!"
+    },
+    {
+      "id": 3,
+      "name": "news",
+      "description": "great!"
+    }
+  ]
+}
